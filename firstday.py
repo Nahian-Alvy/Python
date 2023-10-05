@@ -1,5 +1,5 @@
 print(type("hello"))
-print(type(6))
+print(type(6)) #it'll show the type of the value
 print(8**2) #power
 print(6%4)
 print(round(4.8))
