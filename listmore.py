@@ -1,0 +1,10 @@
+basket = [12,24,63,34,5]
+basket.append(6)
+print(basket)
+new_basket = basket.copy()
+new_basket.sort()
+basket.reverse()
+print(new_basket)
+print(basket)
+new_sentence = ' '.join(['hi','my','name' ,'is' ,'pickle'])
+print(new_sentence)
